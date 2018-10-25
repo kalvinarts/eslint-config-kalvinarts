@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-kalvinarts",
+  "version": "0.1.0",
+  "description": "eslint redistributable style rules",
+  "main": "index.js",
+  "repository": "https://github.com/kalvinarts/eslint-config-kalvinarts.git",
+  "author": "Kalvin <kalvinarts@protonmail.com>",
+  "license": "UNLICENSED",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^5.6.1"
+  },
+  "peerDependencies": {
+    "eslint": "^5.6.1"
+  }
+}
